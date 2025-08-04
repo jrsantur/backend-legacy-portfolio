@@ -38,12 +38,6 @@ Sistema completo de gestion de inventario, órdenes de compra y ventas, con arqu
 - **Características**: API Gateway, Service Discovery, Circuit Breaker
 - **Estado**: 🚧 En desarrollo 
 
-#### 🔐 [User Management System](https://github.com/jrsantur/user-management-system)
-Sistema de gestión de usuarios con autenticación y autorización
-- **Tech Stack**: Spring Security, JWT, BCrypt, PostgreSQL
-- **Características**: Roles, Permisos, Auditoría, API segura
-- **Estado**: ✅ Completo
-
 ### 🏢 RPG (IBM i/AS400) Projects
 
 
